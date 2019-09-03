@@ -1,0 +1,7 @@
+{
+    "elements":
+    [
+        {"type": "SelectDateTime", "name": "DateTime", "caption": "Date and Time"},
+        {"type": "ValidationTextBox", "name": "Event", "caption": "Event"}
+    ]
+}

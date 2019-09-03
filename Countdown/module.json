@@ -1,0 +1,15 @@
+{
+    "id": "{575F1657-1B98-8F0F-3F65-48303FF0B516}",
+    "name": "Countdown",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Countdown"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "CD",
+    "url": "https://symcon.de"
+}
