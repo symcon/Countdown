@@ -28,7 +28,7 @@ Das Modul ermöglicht es einen Countdown bis zu einem Event im Webfront anzuzeig
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'Countdown'-Modul unter dem Hersteller '(Sonstige)' aufgeführt.  
+- Unter "Instanz hinzufügen" kann das 'Countdown'-Modul mithilfe der Schnellsuche gefunden werden.  
 
 __Konfigurationsseite__:
 
