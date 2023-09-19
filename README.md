@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das Countdown Repository:
 
-- __Countdown__ ([Dokumentation](Countdown))  
+- __Countdown__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/countdown))  
 	Das Modul ermöglicht es einen Countdown bis zu einem Event im Webfront anzuzeigen.
