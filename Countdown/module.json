@@ -3,10 +3,9 @@
     "name": "Countdown",
     "type": 3,
     "vendor": "",
-    "aliases":
-    [
+    "aliases": [
         "Countdown"
-    ],  
+    ],
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],

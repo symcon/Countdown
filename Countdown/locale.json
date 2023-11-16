@@ -1,15 +1,14 @@
 {
-	"translations": {
-		"de": {
-			"There are %a days, %h hours and %i minutes left": "Es sind noch %a Tage, %h Stunden und %i Minuten",
-			"%s until %s.": "%s bis %s.",
-			"Christmas": "Weihnachten",
-			"Event": "Ereignis",
-			"Date and Time": "Datum und Uhrzeit",
-			"It's ": "Es ist ",
-			"Time Remaining": "Verbleibende Zeit",
-			"Event Reached": "Ereignis erreicht"
-
-		}
-	}
+    "translations": {
+        "de": {
+            "There are %a days, %h hours and %i minutes left": "Es sind noch %a Tage, %h Stunden und %i Minuten",
+            "%s until %s.": "%s bis %s.",
+            "Christmas": "Weihnachten",
+            "Event": "Ereignis",
+            "Date and Time": "Datum und Uhrzeit",
+            "It's ": "Es ist ",
+            "Time Remaining": "Verbleibende Zeit",
+            "Event Reached": "Ereignis erreicht"
+        }
+    }
 }
